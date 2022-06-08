@@ -1,0 +1,27 @@
+id: IC99D2DF7
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-28T09:00:59+00:00'
+last_modified: '2022-06-08T14:18:01.615159+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W1PD53257
+  title: རང་གཤིས་གདུང་འབོད།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: true
+  base:
+    74ED:
+      image_group_id: I1KG22993
+      title: ''
+      total_pages: 232
+      order: 1
+      base_file: 74ED.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
